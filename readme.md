@@ -1,3 +1,5 @@
+Korinek Martin 4.L Commit 1
+
 # Sociální síť
 domácí úkol z předmětu **vývoj webových aplikací**
 ## Odevzdání
